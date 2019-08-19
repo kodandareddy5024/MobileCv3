@@ -103,7 +103,7 @@ a:hover {
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 200px;
+  bottom: 100px;
 }
 .images{
 width:100px;
@@ -188,7 +188,7 @@ border-radius:100%;
     position: absolute;
      left: 0;
     bottom:200px;
-  margin-bottom: 10px;
+  
   }
 
   .skill-row {
